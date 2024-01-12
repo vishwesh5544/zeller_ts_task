@@ -1,0 +1,14 @@
+{
+  "name": "zeller_ts_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vishwesh5544/zeller_ts_task.git",
+  "author": "Vishwesh Shukla <vishweshshukla20@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0"
+  }
+}
